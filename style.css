@@ -1,0 +1,41 @@
+*{
+    text-align: center;
+    background-color: black;
+    font-family: "Poppins", sans-serif;
+ 
+}
+body{
+    background: linear-gradient(135deg, #000000, #232526);
+}
+div{
+    height: 500px;
+    width: 700px;
+    border: 1px solid black;
+    text-align: center;
+    margin: auto;
+    border-radius: 15px;
+}
+h1{
+    color: white;
+    background: #1f2937;
+    padding: 15px;
+    border-radius: 10px;
+    width: fit-content;
+    margin: 20px auto;
+}
+button{
+    background-color: blue;
+    color: white;
+    border-radius: 10px;
+    height: 45px;
+    width: 300px;
+    border: none;
+    cursor: pointer;
+    font-size: 18px;
+    transition: all 0.3s ease;
+
+}
+button:hover{
+    background-color: blueviolet;
+    width: 500px;
+}
