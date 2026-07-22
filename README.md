@@ -28,11 +28,13 @@ Through this project, I practiced:
 
 ## 🔗 Live Demo
 
-Add your live demo link here.
+(https://harshpandey3187.github.io/random-color-generator/)
 
 ## 📸 Preview
 
-<video controls src="Random Color Generator.mp4" title=""></video>
+<video controls width="100%">
+  <source src="./generaterandomcolor/Random%20Color%20Generator.mp4" type="video/mp4">
+</video>
 
 ---
 
